@@ -94,5 +94,6 @@ void swap(int *a,int *b)
         delet(h,n-i);
     }
      print(h,n);
+     printf("hello world");
     return 0;
  }
