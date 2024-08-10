@@ -80,6 +80,13 @@ void swap(int *a,int *b)
  {
     // 
  }
+
+  void mergersort()
+ {
+    // 
+ }
+
+
  int main()
  {
 
